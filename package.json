@@ -1,0 +1,23 @@
+{
+  "name": "travel-website",
+  "version": "1.0.0",
+  "description": "using node and express to create a website",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Akanksha Joshi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
