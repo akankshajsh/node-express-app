@@ -1,0 +1,17 @@
+{
+    "data": {
+    "items":
+        [
+            {
+                "id": 1,
+                "name": "hood travels",
+                "price": 99.95
+            },
+            {
+                "id": 2,
+                "name": "River Bed Travels",
+                "price": 199.98
+            }
+        ]
+    }
+}
